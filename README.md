@@ -15,7 +15,6 @@
   </p>
 </div>
 
-<br>
 
 <div align="left">
   <h2 align="left" style="border-bottom: 1px solid gray">Usage</h2>
