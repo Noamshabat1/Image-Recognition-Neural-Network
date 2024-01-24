@@ -3,10 +3,6 @@
   <h1 align="center" style="border-bottom: none"><b>Programming Workshop in C & C++ - Exercise 4</b> - Image Recognition, Neural Network</b></h1>
 <br>
 
-
-<div align="center">
-  <h1 align="center" style="border-bottom: none"><b>Exercise 4</b> - Image Recognition, Neural Network</h1>
-
   <p align="center">
     <b>Image Recognition, Neural Network</b> is the 4th exercise I've solved in Huji's <b>Programming Workshop in C & C++</b> course.
     <br>
